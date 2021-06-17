@@ -1,0 +1,6 @@
+{"type":"Exogenous","r_squared":0.0,"r_squared_adj":0.0,"block_communality":0.876,"mean_redundancy":0.0,"ave":0.876}
+{"type":"Exogenous","r_squared":0.0,"r_squared_adj":0.0,"block_communality":0.88,"mean_redundancy":0.0,"ave":0.88}
+{"type":"Exogenous","r_squared":0.0,"r_squared_adj":0.0,"block_communality":0.871,"mean_redundancy":0.0,"ave":0.871}
+{"type":"Endogenous","r_squared":0.605,"r_squared_adj":0.602,"block_communality":0.895,"mean_redundancy":0.542,"ave":0.895}
+{"type":"Endogenous","r_squared":0.615,"r_squared_adj":0.603,"block_communality":0.905,"mean_redundancy":0.556,"ave":0.905}
+{"type":"Endogenous","r_squared":0.53,"r_squared_adj":0.521,"block_communality":0.774,"mean_redundancy":0.411,"ave":0.774}
